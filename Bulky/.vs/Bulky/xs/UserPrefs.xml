@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{FEED0215-AA7F-41AA-8FB7-97DB1A2DF35D}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyProject/appsettings.json">
+    <Files>
+      <File FileName="BulkyProject/appsettings.json" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bulky" expanded="True">
+            <Node name="BulkyProject">
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BulkyProject FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BulkyProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("49c5d937-e485-4dbd-bd89-e406ec313de9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b4a949229b76675ead2fc479865b1e2c7627fce")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
