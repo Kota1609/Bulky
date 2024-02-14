@@ -1,0 +1,15 @@
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/bin/Debug/net8.0/Bulky.Models.deps.json
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/bin/Debug/net8.0/Bulky.Models.runtimeconfig.json
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/bin/Debug/net8.0/Bulky.Models.dll
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/bin/Debug/net8.0/Bulky.Models.pdb
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.csproj.AssemblyReference.cache
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.AssemblyInfoInputs.cache
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.AssemblyInfo.cs
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.csproj.CoreCompileInputs.cache
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.sourcelink.json
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.dll
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/refint/Bulky.Models.dll
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.pdb
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/Bulky.Models.genruntimeconfig.cache
+/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/ref/Bulky.Models.dll
