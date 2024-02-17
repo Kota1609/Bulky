@@ -1,37 +1,41 @@
-﻿<Properties StartupConfiguration="{FEED0215-AA7F-41AA-8FB7-97DB1A2DF35D}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyProject/Areas/Admin/Controllers/ProductControllers.cs">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{1C8D88C5-3629-4BAE-8150-5277DB023ADF}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyWeb/Areas/Customer/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="Bulky.DataAccess/Repository/Repository.cs" Line="9" Column="24" />
-      <File FileName="Bulky.DataAccess/Repository/IRepository/IRepository.cs" Line="18" Column="2" />
-      <File FileName="BulkyProject/Areas/Admin/Controllers/ProductControllers.cs" Line="61" Column="1" />
-      <File FileName="BulkyProject/Areas/Admin/Views/Product/Upsert.cshtml" Line="76" Column="26" />
+      <File FileName="BulkyWeb/Areas/Admin/Controllers/ProductController.cs" Line="34" Column="19" />
+      <File FileName="Bulky.Models/ViewModels/ProductVM.cs" Line="11" Column="18" />
+      <File FileName="Bulky.Models/Product.cs" Line="16" Column="20" />
+      <File FileName="BulkyWeb/Areas/Admin/Views/Product/Upsert.cshtml" Line="43" Column="31" />
+      <File FileName="Bulky.DataAccess/Repository/IRepository/IRepository.cs" Line="20" Column="1" />
+      <File FileName="Bulky.DataAccess/Repository/Repository.cs" Line="67" Column="14" />
+      <File FileName="BulkyWeb/Areas/Customer/Views/Home/Index.cshtml" Line="29" Column="35" />
+      <File FileName="BulkyWeb/Areas/Customer/Views/Home/Details.cshtml" Line="39" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Bulky" expanded="True">
-            <Node name="BulkyBook.DataAccess">
+            <Node name="BulkyBook.DataAccess" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="DbInitializer" expanded="True" />
               <Node name="Repository" expanded="True">
                 <Node name="IRepository" expanded="True" />
               </Node>
             </Node>
+            <Node name="BulkyBook.Models" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
             <Node name="BulkyBookWeb">
-              <Node name="Areas" expanded="True">
-                <Node name="Admin" expanded="True">
+              <Node name="Areas">
+                <Node name="Customer" expanded="True">
                   <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
-                    <Node name="Product" expanded="True" />
+                    <Node name="Home" expanded="True">
+                      <Node name="Index.cshtml" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Shared" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="images" expanded="True">
-                  <Node name="product" selected="True" />
-                </Node>
-                <Node name="js" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -42,11 +46,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

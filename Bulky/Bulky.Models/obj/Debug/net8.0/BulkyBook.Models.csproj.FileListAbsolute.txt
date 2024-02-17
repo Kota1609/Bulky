@@ -1,5 +1,17 @@
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/bin/Debug/net8.0/BulkyBook.Models.deps.json
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/bin/Debug/net8.0/BulkyBook.Models.dll
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/bin/Debug/net8.0/BulkyBook.Models.pdb
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.csproj.AssemblyReference.cache
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.AssemblyInfoInputs.cache
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.AssemblyInfo.cs
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.csproj.CoreCompileInputs.cache
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.sourcelink.json
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.dll
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/refint/BulkyBook.Models.dll
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.pdb
+/Users/srichandankota/Projects/Bulky_MVC/Bulky.Models/obj/Debug/net8.0/ref/BulkyBook.Models.dll
 /Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/bin/Debug/net8.0/BulkyBook.Models.deps.json
-/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/bin/Debug/net8.0/BulkyBook.Models.runtimeconfig.json
 /Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/bin/Debug/net8.0/BulkyBook.Models.dll
 /Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/bin/Debug/net8.0/BulkyBook.Models.pdb
 /Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.csproj.AssemblyReference.cache
@@ -11,5 +23,4 @@
 /Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.dll
 /Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/refint/BulkyBook.Models.dll
 /Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.pdb
-/Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/BulkyBook.Models.genruntimeconfig.cache
 /Users/srichandankota/Projects/Bulky/Bulky/Bulky.Models/obj/Debug/net8.0/ref/BulkyBook.Models.dll
